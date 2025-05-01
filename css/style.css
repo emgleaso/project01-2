@@ -54,6 +54,9 @@ img {
     width: 500px;
 }
 
+video{
+    margin-bottom: 30px;
+}
 
 p {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -125,8 +128,8 @@ span {
     width: 200px;
     transform: rotate(40deg);
     position: absolute;
-    top: 260px;
-    left: 470px;
+    top: 300px;
+    left: 500px;
     opacity: 50%;
 }
 
@@ -135,6 +138,7 @@ span {
     width: 300px;
     position: absolute;
     top: 20px;
+    left: 30px;
     opacity: 50%;
 }
 
