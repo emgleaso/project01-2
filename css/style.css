@@ -58,9 +58,9 @@ video{
     margin-bottom: 70px;
 }
 
-p {
+.other {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color: rgb(24, 87, 160);
+    background-color: rgb(77, 155, 245);
     margin: 5vw 10vw;
     padding: 2vw;
     border: 3px outset rgb(175, 194, 255);
