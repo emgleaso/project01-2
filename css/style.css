@@ -55,7 +55,7 @@ img {
 }
 
 video{
-    margin-bottom: 30px;
+    margin-bottom: 70px;
 }
 
 p {
@@ -72,7 +72,8 @@ p {
 }
 
 .ascii{
-    background-color: rgb(156, 202, 253);
+    background: #EEAECA;
+background: radial-gradient(circle,rgba(238, 174, 202, 1) 0%, rgba(148, 187, 233, 1) 100%);
     margin: 5vw 10vw;
     padding: 2vw;
     border: 3px outset rgb(175, 194, 255);
