@@ -6,7 +6,7 @@ head{
 
 
 body {
-    background-image: url('/assets/images/loadingscreen.jpg');
+    background-image: url('project01-2/assets/images/loadingscreen.jpg');
     background-repeat: repeat;
     display: flex;
     flex-direction: column;
@@ -138,7 +138,7 @@ span {
     width: 300px;
     position: absolute;
     top: 20px;
-    left: 30px;
+    left: 80px;
     opacity: 50%;
 }
 
