@@ -58,9 +58,9 @@ video{
     margin-bottom: 30px;
 }
 
-.other {
+p {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color: rgb(156, 202, 253);
+    background-color: rgb(24, 87, 160);
     margin: 5vw 10vw;
     padding: 2vw;
     border: 3px outset rgb(175, 194, 255);
@@ -136,7 +136,7 @@ span {
     transform: rotate(40deg);
     position: absolute;
     top: 300px;
-    left: 500px;
+    left: 700px;
     opacity: 50%;
 }
 
