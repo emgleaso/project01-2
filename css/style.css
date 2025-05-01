@@ -1,0 +1,161 @@
+head{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+body {
+    background-image: url('/assets/images/loadingscreen.jpg');
+    background-repeat: repeat;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    min-height: 100vh;
+    font-family: 'Arial', sans-serif;
+    padding: 20px;
+}
+
+
+.title {
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-family: "Calibri", system-ui;
+    margin-top: 40px;
+    margin-bottom: 50px;
+    text-decoration-line: underline;
+    font-size: 36px; /
+}
+
+
+.game {
+    text-align: center;
+    font-family: "DynaPuff";
+    font-size: 50px;
+    color: rgb(38, 35, 218);
+    text-shadow: 3px 3px rgb(231, 241, 250);
+    padding: 15px;
+    background: #5ca8ff;
+    border-radius: 10px;
+    border: 5px dashed #244cff;
+    margin: auto;
+}
+
+.tart{
+    color:rgb(18, 120, 253)
+}
+
+img {
+    display: block;
+    margin: auto;
+    border: 10px solid rgb(231, 241, 250);
+    border-radius: 25px;
+    width: 500px;
+}
+
+
+p {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgb(156, 202, 253);
+    margin: 5vw 10vw;
+    padding: 2vw;
+    border: 3px outset rgb(175, 194, 255);
+    border-radius: 10px;
+    text-align: center;
+    width: 80%;  
+    max-width: 500px;
+    font-size: 18px;
+}
+
+
+.pop {
+    display: block;
+    background-color: rgb(105, 175, 255);
+    margin: 5vw 5vw;
+    margin-bottom: 10px;
+    padding-bottom: 50px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+
+ul {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    list-style-type: circle;
+    list-style-position: inside;
+}
+
+
+a {
+    color: rgb(24, 106, 214);
+    text-align: center;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+
+.fav {
+    width: 80%;  
+    max-width: 600px;
+    margin-top: 5px;
+    margin-bottom: 1px;
+    background-color: rgb(63, 147, 243);
+    border-radius: 25px;
+    border: 5px outset rgb(38, 35, 218);
+    padding: 1vw;
+    padding-top: 1px;
+    padding-bottom: 3vw;
+    text-align: center;
+    display: flex;  
+    flex-direction: column;  
+    justify-content: center;  
+    align-items: center;  
+}
+
+
+span {
+    color: rgb(168, 76, 0);
+    font-weight: 800;
+}
+
+.tropicanaimg{
+    border: none;
+    width: 200px;
+    transform: rotate(40deg);
+    position: absolute;
+    top: 260px;
+    left: 470px;
+    opacity: 50%;
+}
+
+.poptart{
+    border: none;
+    width: 300px;
+    position: absolute;
+    top: 20px;
+    opacity: 50%;
+}
+
+.area {
+    width: 300px;
+    height: 200px;
+    position: relative;
+  }
+
+  .realsite {
+    position: absolute;
+    top: 200px;    
+    left: 50px;
+    width: 300px; 
+    height: 50px;
+    display: block;
+    text-decoration: none;
+    background-color: transparent; 
+    border: none;
+    cursor: pointer;
+  }
+
+
+
