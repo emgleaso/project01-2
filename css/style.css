@@ -6,7 +6,7 @@ head{
 
 
 body {
-    background-image: url('project01-2/assets/images/loadingscreen.jpg');
+    background-image: url('../assets/images/loadingscreen.jpg');
     background-repeat: repeat;
     display: flex;
     flex-direction: column;
