@@ -58,7 +58,7 @@ video{
     margin-bottom: 30px;
 }
 
-p {
+.other {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: rgb(156, 202, 253);
     margin: 5vw 10vw;
@@ -71,6 +71,13 @@ p {
     font-size: 18px;
 }
 
+.ascii{
+    background-color: rgb(156, 202, 253);
+    margin: 5vw 10vw;
+    padding: 2vw;
+    border: 3px outset rgb(175, 194, 255);
+    border-radius: 10px;
+}
 
 .pop {
     display: block;
